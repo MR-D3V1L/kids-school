@@ -350,7 +350,7 @@ main {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 576px) {
     main {
         grid-template-columns: 1fr;
         text-align: center;
